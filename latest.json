@@ -1,7 +1,7 @@
 {
   "versao": "66.5",
   "data": "2026-09-24",
-  "download": "",
-  "sha256": "",
-  "notas": "Versão atual do Simplifica Automação Fiscal"
+  "download": "https://github.com/simplificasolucoescontabeis-max/simplifica-updates/releases/download/66.5/SIMPLIFICA_AUTOMACAO_v66.5.exe",
+  "sha256": "5d26aebb0f93302f74324f76aaefe751b19df7fa3574425826943b3443d77700",
+  "notas": "Versão estável utilizada como base para o sistema de atualizações automáticas."
 }
